@@ -150,7 +150,7 @@ Go to AWS S3 properties &  Change the Bucket versioning – suspect
 
 # Zoom  View
 
-![image](https://github.com/Siddhartha082/AWS_CloudFormation_Template_Drift_Detection_in_Code_YAML/assets/110781138/c4417ed5-388d-427e-8d1f-c2f8761147b4)
+![image](https://github.com/Siddhartha082/AWS_CloudFormation_Template_Drift_Detection_in_Code_YAML/assets/110781138/e3a62a7f-bd61-439d-9a49-410127b35d4a)
 
 
 
