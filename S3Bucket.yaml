@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: 2010-09-09
+Metadata:
+  'AWS::CloudFormation::Designer':
+    3e6f2da4-0184-4126-97f0-87092bb40f09:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 330
+        'y': 80
+      z: 0
+Resources:
+  S3Bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties: 
+        BucketName: "demo.aws.sid.example.com"
+        VersioningConfiguration:
+          Status: Enabled
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 3e6f2da4-0184-4126-97f0-87092bb40f09
